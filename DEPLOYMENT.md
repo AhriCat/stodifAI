@@ -11,4 +11,4 @@ export PHEMEX_SECRET="your_secret_here"
 python main.py
 
 # To trade (switch flag)
-# python main.py --train_only=False  <-- or edit the script
+- python main.py --train_only=False  <-- or edit the script
